@@ -42,5 +42,6 @@ This project analyses sleep health and lifestyle patterns using Python. It explo
 - Average sleep duration for males: approximately 7.04 hours.
 
 ## Conclusion
-This project demonstrates how Python can be used to inspect, clean, analyse, and visualise real-world health and lifestyle data.# Sleep-Health-and-Lifestyle-Analysis
-Data Analytics Project using Python
+
+This project demonstrates how Python can be used to inspect, clean, analyse, and visualise real-world health and lifestyle data.
+
